@@ -3,10 +3,15 @@
 Pneumonia detection using Convolutional Neural Network.
 
 Technologes used:
+
 Model - MobileNetV2 (Transfer learning)
+
 Training platform - Google Colab
+
 Tensorflow
+
 React.js
+
 Flask
 
 Dataset : Kaggle Chest X-Ray Dataset
